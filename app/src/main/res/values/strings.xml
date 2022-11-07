@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoT</string>
+    <string name="image">image</string>
+    <string name="episode_name">Episode name</string>
+    <string name="episode_summary">Episode summary</string>
+    <string name="duration">Duration: </string>
+    <string name="url">URL</string>
+</resources>
